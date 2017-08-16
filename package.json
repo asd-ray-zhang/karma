@@ -1,0 +1,17 @@
+{
+  "name": "test-karma",
+  "version": "1.0.0",
+  "description": "initial auto test project.",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "author": "ray",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^1.1.0"
+  }
+}
